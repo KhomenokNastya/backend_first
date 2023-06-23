@@ -15,7 +15,7 @@
 	"author": "Khomenok Anastasia",
 	"license": "ISC",
 	"dependencies": {
-		"@prisma/client": "^4.15.0",
+		"@prisma/client": "^4.16.0",
 		"@trivago/prettier-plugin-sort-imports": "^4.1.1",
 		"argon2": "^0.30.3",
 		"dotenv": "^16.3.1",
